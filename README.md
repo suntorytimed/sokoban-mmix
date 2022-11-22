@@ -1,2 +1,2 @@
 # sokoban-mmix
-mmixal - 1000 -l soko.mml soko.mms
+mmixal -b 1000 -l soko.mml soko.mms
